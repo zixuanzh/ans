@@ -21,7 +21,7 @@ genesis_states = {
     'K_prev': initial_values['K'],
     # decision variables
     'delta_D': float(0),
-    'detla_S': float(0),
+    'delta_S': float(0),
 
     # signals for decisions
     'lambda_D': initial_values['lambda_D'],
